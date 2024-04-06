@@ -39,16 +39,10 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 
 ### 2-Norm of a Matrix
-<br>![image](https://github.com/pirateharishs/Norm-of-a-matrix/assets/166011385/d9f52f22-cf52-4238-ab07-7d4b7fec3f54)
-
-<br>
-<br>
+![image](https://github.com/pirateharishs/Norm-of-a-matrix/assets/166011385/d9f52f22-cf52-4238-ab07-7d4b7fec3f54)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>![image](https://github.com/pirateharishs/Norm-of-a-matrix/assets/166011385/c76f768e-dff5-45ef-8dde-a85774dbe42c)
-
-<br>
+![image](https://github.com/pirateharishs/Norm-of-a-matrix/assets/166011385/c76f768e-dff5-45ef-8dde-a85774dbe42c)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
