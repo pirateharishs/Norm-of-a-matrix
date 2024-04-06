@@ -25,7 +25,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 
 
-# Infinity Norm of a Matrix
+# 3-Infinity Norm of a Matrix
 ![image](https://github.com/pirateharishs/Norm-of-a-matrix/assets/166011385/c908cfbb-3890-4017-8bdd-19c946c36b95)
 
 
